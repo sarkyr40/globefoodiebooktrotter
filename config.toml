@@ -1,4 +1,4 @@
-baseURL = "https://sarkyr40.github.io/foodieglobetrotter/"
+baseURL = "https://sarkyr40.github.io/globefoodiebooktrotter/"
 languageCode = "en-us"
 title = "Foodieglobetrotter"
 theme = "mediumish-gohugo-theme"
@@ -11,7 +11,7 @@ publishDir = "docs"
 
 [params]
   logo = "/images/logo2.png"
-  description ="the travel, eat, read blog!"
+  description ="The travel, eat, read blog!"
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]

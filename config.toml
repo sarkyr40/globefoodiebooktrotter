@@ -1,0 +1,47 @@
+baseURL = "https://sarkyr40.github.io/foodieglobetrotter/"
+languageCode = "en-us"
+title = "Foodieglobetrotter"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "Maryannnnr - All rights reserved"
+enableEmoji = true
+publishDir = "docs"
+#disqusShortname = "Maryannnnr"
+#googleAnalytics = "UA-1XXXXXXX1-1"
+
+[params]
+  logo = "/images/logo2.png"
+  description ="the travel, eat, read blog!"
+  #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+  name = "Maryannnnr"
+  thumbnail = "/images/author2.png"
+  description = "Creator of this blog."
+
+[params.index]
+  picture = "/images/author2.png"
+  title = "Maryannnnr"
+  subtitle = "I'm travelling, eating and reading! Nutritionist in my free time."
+  mdtext = '''
+Passionate about sharing my experiences!\
+**Please get in touch if you have any questions...**\
+### Connect with me in social media!
+'''
+  alertbar = false
+
+[params.social]
+    instagram = "maryannnnr"
+    facebook = "foodieglobetrotter"
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 200
+    url = "/"

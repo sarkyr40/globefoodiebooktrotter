@@ -6,7 +6,7 @@ summaryLength = 25
 copyright = "Maryannnnr - All rights reserved"
 enableEmoji = true
 publishDir = "docs"
-#disqusShortname = "Maryannnnr"
+disqusShortname = "https-sarkyr40-github-io-globefoodiebooktrotter"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 
 [params]

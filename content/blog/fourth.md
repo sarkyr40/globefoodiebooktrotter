@@ -1,5 +1,5 @@
 ---
-comments: false
+comments: true
 date: "2018-10-07T11:39:16+02:00"
 image: /images/blog/4.jpg
 publishdate: "2018-10-07T11:39:16+02:00"

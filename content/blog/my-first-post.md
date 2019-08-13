@@ -2,10 +2,18 @@
 comments: true
 date: "2018-10-07T11:17:14+02:00"
 image: /images/blog/1.jpg
-publishdate: "2018-10-07T11:17:14+02:00"
+publishdate: "2018-05-16T00:00:00+02:00"
 tags:
-- interesting
-title: My First Post
+- Food
+title: Grilled salmon,red lentil pasta with rosso pesto & a sprinkle of parmesan served with classic caesar salad
 ---
 # This is my first post
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tortor dui, fermentum non dapibus id, volutpat non odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas fringilla tempus urna ac laoreet. Curabitur sed bibendum lectus. Vivamus gravida venenatis porttitor. Phasellus aliquet nibh vel accumsan malesuada. Nulla nibh enim, auctor nec rhoncus a, pulvinar at tortor. Donec sodales consequat dolor et condimentum. Praesent convallis massa sit amet ultrices porta. Sed commodo, odio et porttitor fringilla, mi tortor sodales nulla, a fermentum dolor mi pulvinar mi. 
+So since I have all the time on my hands I decided to start making new dishes and decide how complementary flavors can get on my own (although I am sure there are books out there!) I would prefer to go on this sensory journey on my own. 
+
+Firstly, I should say red lentil pasta is divine! If you fancy trying an alternative to wheat pasta, definitely start with this one. Maybe because I love lentils, this makes it doubly delicious. 
+
+Now, about the pairing, I simply grilled the salmon with a small bit of olive oil (Greek!). The touch of parmesan melted on hot pasta with rosso sauce gave the dish a sweet full flavour which went perfectly with the plain grilled salmon. mmm yum! 
+
+I know the salad looks like it has lots of dressing (I do love my dressings), an alternative would be low fat yogurt or no dressing at all! I have plain salads twice a week at least and its refreshing! Some days, I would toss it with some olive oil and vinegar and its perfect. 
+
+Have your pick over your veges and how you like them, just as long as you are having them everyday! 

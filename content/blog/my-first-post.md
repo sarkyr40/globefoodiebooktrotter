@@ -14,7 +14,8 @@ So since I have all the time on my hands I decided to start making new dishes an
 -Firstly, I should say red lentil pasta is divine! If you fancy trying an alternative to wheat pasta, definitely start with this one. Maybe because I love lentils, this makes it doubly delicious. 
 
 -Now, about the pairing, I simply grilled the salmon with a small bit of olive oil (Greek!). The touch of parmesan melted on hot pasta with rosso sauce gave the dish a sweet full flavour which went perfectly with the plain grilled salmon. mmm yum! 
-![](/images/blog/1a.jpg)
--I know the salad looks like it has lots of dressing (I do love my dressings), an alternative would be low fat yogurt or no dressing at all! I have plain salads twice a week at least and its refreshing! Some days, I would toss it with some olive oil and vinegar and its perfect. 
 
-Have your pick over your veges and how you like them, just as long as you are having them everyday! 
+-I know the salad looks like it has lots of dressing (I do love my dressings), an alternative would be low fat yogurt or no dressing at all! I have plain salads twice a week at least and its refreshing! Some days, I would toss it with some olive oil and vinegar and its perfect. Have your pick over your veges and how you like them, just as long as you are having them everyday! 
+
+
+![](/images/blog/1a.jpg)

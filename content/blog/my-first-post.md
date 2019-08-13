@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2018-10-07T11:17:14+02:00"
-image: /images/blog/1.jpg
+image: /images/blog/1a.jpg /images/blog/1b.jpg
 publishdate: "2018-05-16T00:00:00+02:00"
 tags:
 - Food

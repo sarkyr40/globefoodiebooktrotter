@@ -14,10 +14,15 @@
         </li>
 
         <li class="ml-1 mr-1">
-        <a target="_blank" href="https://www.xing.com/spi/shares/new?url={{ .URL | absLangURL }}" onclick="window.open(this.href, 'xing-share', 'width=550,height=435');return false;">
-        <i class="fab fa-xing"></i>
+        <a target="_blank" href="https://www.facebook.com/dialog/feed?
+  app_id=145634995501895
+  &display=popup
+  &link=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2F
+  &redirect_uri=https://developers.facebook.com/tools/explorer" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+        <i class="fab fa-facebook-f"></i>
         </a>
-        </li>        
+        </li>
+
     </ul>
 
     {{ if .Params.comments }}

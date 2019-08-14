@@ -21,7 +21,30 @@
   
   <url>
     <loc>/globefoodiebooktrotter/blog/</loc>
-    <lastmod>2018-06-08T00:00:00+02:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/globefoodiebooktrotter/tags/</loc>
+    <lastmod>2018-06-12T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/globefoodiebooktrotter/tags/vietnam/</loc>
+    <lastmod>2018-06-12T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/globefoodiebooktrotter/blog/10/</loc>
+    <lastmod>2018-06-12T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/globefoodiebooktrotter/tags/travel/</loc>
+    <lastmod>2018-06-12T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -37,19 +60,7 @@
   </url>
   
   <url>
-    <loc>/globefoodiebooktrotter/tags/</loc>
-    <lastmod>2018-06-08T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/globefoodiebooktrotter/tags/food/</loc>
-    <lastmod>2018-06-08T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/globefoodiebooktrotter/tags/travel/</loc>
     <lastmod>2018-06-08T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>

@@ -12,7 +12,7 @@ This is one of my favourite meals to make! I got the recipe for high fiber scone
 
 I made some changes to the original recipe and this is what I used and it serves 2:
 - 125g self-raising flour
-- 125g wholemeal flour 
+- 125g wholemeal flour
 - 25g olive oil spread
 - 150ml unsweetened almond milk 
 

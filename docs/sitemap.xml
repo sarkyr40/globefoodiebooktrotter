@@ -3,37 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/globefoodiebooktrotter/blog/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/globefoodiebooktrotter/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/globefoodiebooktrotter/blog/ninth/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/globefoodiebooktrotter/tags/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/globefoodiebooktrotter/tags/drink/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/globefoodiebooktrotter/tags/interesting/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
+    <lastmod>2018-10-07T11:12:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -49,18 +20,41 @@
   </url>
   
   <url>
+    <loc>/globefoodiebooktrotter/blog/</loc>
+    <lastmod>2018-06-07T11:40:14+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/globefoodiebooktrotter/blog/ninth/</loc>
+    <lastmod>2018-06-07T11:40:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/globefoodiebooktrotter/tags/south-korea/</loc>
+    <lastmod>2018-06-07T11:40:14+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/globefoodiebooktrotter/tags/</loc>
+    <lastmod>2018-06-07T11:40:14+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/globefoodiebooktrotter/tags/food/</loc>
+    <lastmod>2018-06-07T11:40:14+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/globefoodiebooktrotter/blog/eighth/</loc>
     <lastmod>2018-06-05T00:09:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>/globefoodiebooktrotter/tags/cork-ireland/</loc>
-    <lastmod>2018-06-05T00:09:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/globefoodiebooktrotter/tags/food/</loc>
     <lastmod>2018-06-05T00:09:00+02:00</lastmod>
     <priority>0</priority>
   </url>

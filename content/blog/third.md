@@ -5,10 +5,8 @@ image: /images/blog/3a.jpg
 publishdate: "2018-05-16T09:00:00+02:00"
 tags:
 - book
-title: Book review
+title: SMALL GREAT THINGS by Jodi Picoult
 ---
-<!--# This is another post-->
-## "SMALL GREAT THINGS" by *Jodi Picoult*
 I was hooked from the very first page. This book looks at 3 people’s perspective on racism. It involves: 
 
 - an African American nurse, 

@@ -93,14 +93,5 @@
       <description>So since I have all the time on my hands I decided to start making new dishes and decide how complementary flavors can get on my own (although I am sure there are books out there!</description>
     </item>
     
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/globefoodiebooktrotter/blog/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/globefoodiebooktrotter/blog/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.</description>
-    </item>
-    
   </channel>
 </rss>

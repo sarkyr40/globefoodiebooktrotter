@@ -1,12 +1,17 @@
 ---
-comments: false
-date: "2018-10-07T11:39:25+02:00"
-image: /images/blog/6.jpg
-publishdate: "2018-10-07T11:39:25+02:00"
+comments: true
+date: "2018-05-29T00:00:00+02:00"
+image: /images/blog/6a.jpg
+publishdate: "2018-05-29T00:00:00+02:00"
 tags:
-- interesting
-- drink
+- food
+- Cork-Ireland
 title: Sixth
 ---
-# This is another post
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tortor dui, fermentum non dapibus id, volutpat non odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas fringilla tempus urna ac laoreet. Curabitur sed bibendum lectus. Vivamus gravida venenatis porttitor. Phasellus aliquet nibh vel accumsan malesuada. Nulla nibh enim, auctor nec rhoncus a, pulvinar at tortor. Donec sodales consequat dolor et condimentum. Praesent convallis massa sit amet ultrices porta. Sed commodo, odio et porttitor fringilla, mi tortor sodales nulla, a fermentum dolor mi pulvinar mi. 
+Sar and I come here often and I think we've ordered the same thing several times (roast chicken and warm black pudding salad). Would that be boring? Or we simply know what we love! 
+
+![warm black pudding salad](/globefoodiebooktrotter/images/blog/6c.jpg "warm black pudding salad")
+
+If you fancy a good range of choices from pancakes to creamy mushrooms on toast or just a range of deli delights this is the perfect place! Also, the **black-forest hot chocolate** is to die for, its my absolute favourite! its not too sweet just a great Sunday treat. 
+
+![black-forest hot chocolate](/globefoodiebooktrotter/images/blog/6b.jpg "black-forest hot chocolate")

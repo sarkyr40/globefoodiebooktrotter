@@ -1,11 +1,24 @@
 ---
 comments: true
-date: "2018-10-07T11:39:16+02:00"
-image: /images/blog/4.jpg
-publishdate: "2018-10-07T11:39:16+02:00"
+date: "2018-05-17T00:00:00+02:00"
+image: /images/blog/4a.jpg
+publishdate: "2018-05-17T00:00:00+02:00"
 tags:
-- interesting
-title: Fourth
+- food
+title: Smoked salmon, high fiber scone with low fat yogurt and parsley
 ---
-# This is another post
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tortor dui, fermentum non dapibus id, volutpat non odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas fringilla tempus urna ac laoreet. Curabitur sed bibendum lectus. Vivamus gravida venenatis porttitor. Phasellus aliquet nibh vel accumsan malesuada. Nulla nibh enim, auctor nec rhoncus a, pulvinar at tortor. Donec sodales consequat dolor et condimentum. Praesent convallis massa sit amet ultrices porta. Sed commodo, odio et porttitor fringilla, mi tortor sodales nulla, a fermentum dolor mi pulvinar mi. 
+
+This is one of my favourite meals to make! I got the recipe for high fiber scones from *odlums*. Its very simple and easy to make and only takes 20 minutes of your time! 
+
+I made some changes to the original recipe and this is what I used and it serves 2:
+- 125g self-raising flour
+- 125g wholemeal flour 
+- 25g olive oil spread
+- 150ml unsweetened almond milk 
+
+Firstly, mix the olive oil spread into the flour mixture and add the milk at the end and mix well. I usually scoop them into muffin trays just to help with the shape of the scones and bake them at 180°C for 20 minutes. 
+
+After which I spread a nice layer of low fat greek yogurt and place strips of smoked salmon on top of it with a sprinkle of parsley. I love squeezing some lemon juice on top of it, the flavours blend perfectly together. 
+
+I know some people prefer using crème fraîche for a creamy and full flavour, and I have them that way sometimes for a treat. Whatever you choose, its a great recipe and its easy to make when you've had a busy day and craving for something refreshing and healthy! 
+

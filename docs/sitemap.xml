@@ -97,6 +97,17 @@
   </url>
   
   <url>
+    <loc>/globefoodiebooktrotter/blog/third/</loc>
+    <lastmod>2018-05-16T09:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/globefoodiebooktrotter/tags/book/</loc>
+    <lastmod>2018-05-16T09:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/globefoodiebooktrotter/blog/my-first-post/</loc>
     <lastmod>2018-05-16T00:00:00+02:00</lastmod>
   </url>

@@ -1,11 +1,13 @@
 ---
 comments: true
 date: "2018-10-07T11:39:10+02:00"
-image: /images/blog/2.jpg
-publishdate: "2018-10-07T11:39:10+02:00"
+image: /images/blog/2a.jpg
+publishdate: "2018-05-21T00:00:00+02:00"
 tags:
-- interesting
-title: Second
+- travel
+- food
+- my life
+title: Weekend shenanigans
 ---
-# This is another post
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tortor dui, fermentum non dapibus id, volutpat non odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas fringilla tempus urna ac laoreet. Curabitur sed bibendum lectus. Vivamus gravida venenatis porttitor. Phasellus aliquet nibh vel accumsan malesuada. Nulla nibh enim, auctor nec rhoncus a, pulvinar at tortor. Donec sodales consequat dolor et condimentum. Praesent convallis massa sit amet ultrices porta. Sed commodo, odio et porttitor fringilla, mi tortor sodales nulla, a fermentum dolor mi pulvinar mi. 
+<!--# This is another post-->
+We spent Saturday in Killarney catching up with friends from my university. I was never very good with goodbyes despite the time spent apart, I always feel this little bit of sadness. Reminds me of when my dad would say "I'll see you soon". I made some good and kind friends from University, although it’s been a rough year for me personally, we've had some good times together and I wish them the best! Just a little tribute to our time together I will give each of them a little introduction. 

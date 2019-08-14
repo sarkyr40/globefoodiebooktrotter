@@ -68,13 +68,25 @@
   </url>
   
   <url>
+    <loc>/globefoodiebooktrotter/tags/food/</loc>
+    <lastmod>2018-10-07T11:39:10+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/globefoodiebooktrotter/blog/second/</loc>
     <lastmod>2018-10-07T11:39:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/globefoodiebooktrotter/tags/food/</loc>
-    <lastmod>2018-10-07T11:17:14+02:00</lastmod>
+    <loc>/globefoodiebooktrotter/tags/my-life/</loc>
+    <lastmod>2018-10-07T11:39:10+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/globefoodiebooktrotter/tags/travel/</loc>
+    <lastmod>2018-10-07T11:39:10+02:00</lastmod>
     <priority>0</priority>
   </url>
   

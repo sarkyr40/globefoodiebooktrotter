@@ -6,7 +6,7 @@ publishdate: "2018-05-29T00:00:00+02:00"
 tags:
 - food
 - Cork-Ireland
-title: Sixth
+title: Favourite brunch spot in Cork-Perry's Street
 ---
 Sar and I come here often and I think we've ordered the same thing several times (roast chicken and warm black pudding salad). Would that be boring? Or we simply know what we love! 
 

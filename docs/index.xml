@@ -76,15 +76,6 @@
     </item>
     
     <item>
-      <title>Weekend shenanigans</title>
-      <link>/globefoodiebooktrotter/blog/second/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:10 +0200</pubDate>
-      
-      <guid>/globefoodiebooktrotter/blog/second/</guid>
-      <description>We spent Saturday in Killarney catching up with friends from my university. I was never very good with goodbyes despite the time spent apart, I always feel this little bit of sadness.</description>
-    </item>
-    
-    <item>
       <title>Grilled salmon,red lentil pasta with rosso pesto &amp; a sprinkle of parmesan served with classic caesar salad</title>
       <link>/globefoodiebooktrotter/blog/my-first-post/</link>
       <pubDate>Sun, 07 Oct 2018 11:17:14 +0200</pubDate>
@@ -100,6 +91,15 @@
       
       <guid>/globefoodiebooktrotter/static/imprint/</guid>
       <description>Imprint Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Weekend shenanigans</title>
+      <link>/globefoodiebooktrotter/blog/second/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/globefoodiebooktrotter/blog/second/</guid>
+      <description>We spent Saturday in Killarney catching up with friends from my university. I was never very good with goodbyes despite the time spent apart, I always feel this little bit of sadness.</description>
     </item>
     
   </channel>

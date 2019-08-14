@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Maryannnnr - All rights reserved</copyright>
-    <lastBuildDate>Sun, 07 Oct 2018 11:39:10 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 07 Oct 2018 11:17:14 +0200</lastBuildDate>
     
 	<atom:link href="/globefoodiebooktrotter/tags/food/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Weekend shenanigans</title>
-      <link>/globefoodiebooktrotter/blog/second/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:10 +0200</pubDate>
-      
-      <guid>/globefoodiebooktrotter/blog/second/</guid>
-      <description>We spent Saturday in Killarney catching up with friends from my university. I was never very good with goodbyes despite the time spent apart, I always feel this little bit of sadness.</description>
-    </item>
     
     <item>
       <title>Grilled salmon,red lentil pasta with rosso pesto &amp; a sprinkle of parmesan served with classic caesar salad</title>
@@ -28,6 +19,15 @@
       
       <guid>/globefoodiebooktrotter/blog/my-first-post/</guid>
       <description>So since I have all the time on my hands I decided to start making new dishes and decide how complementary flavors can get on my own (although I am sure there are books out there!</description>
+    </item>
+    
+    <item>
+      <title>Weekend shenanigans</title>
+      <link>/globefoodiebooktrotter/blog/second/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/globefoodiebooktrotter/blog/second/</guid>
+      <description>We spent Saturday in Killarney catching up with friends from my university. I was never very good with goodbyes despite the time spent apart, I always feel this little bit of sadness.</description>
     </item>
     
   </channel>

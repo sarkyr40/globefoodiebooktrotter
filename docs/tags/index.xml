@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Maryannnnr - All rights reserved</copyright>
-    <lastBuildDate>Thu, 07 Jun 2018 11:40:14 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jun 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/globefoodiebooktrotter/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>South Korea</title>
       <link>/globefoodiebooktrotter/tags/south-korea/</link>
-      <pubDate>Thu, 07 Jun 2018 11:40:14 +0200</pubDate>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
       
       <guid>/globefoodiebooktrotter/tags/south-korea/</guid>
       <description></description>
@@ -24,9 +24,18 @@
     <item>
       <title>food</title>
       <link>/globefoodiebooktrotter/tags/food/</link>
-      <pubDate>Thu, 07 Jun 2018 11:40:14 +0200</pubDate>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
       
       <guid>/globefoodiebooktrotter/tags/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travel</title>
+      <link>/globefoodiebooktrotter/tags/travel/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/globefoodiebooktrotter/tags/travel/</guid>
       <description></description>
     </item>
     
@@ -54,15 +63,6 @@
       <pubDate>Mon, 21 May 2018 00:00:00 +0200</pubDate>
       
       <guid>/globefoodiebooktrotter/tags/my-life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>travel</title>
-      <link>/globefoodiebooktrotter/tags/travel/</link>
-      <pubDate>Mon, 21 May 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/globefoodiebooktrotter/tags/travel/</guid>
       <description></description>
     </item>
     

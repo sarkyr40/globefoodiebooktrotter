@@ -1,10 +1,11 @@
 ---
 comments: true
-date: "2018-06-07T11:40:14+02:00"
+date: "2018-06-08T00:00:00+02:00"
 image: /images/blog/9a.jpg
-publishdate: "2018-10-07T11:40:14+02:00"
+publishdate: "2018-06-08T00:00:00+02:00"
 tags:
 - food
+- travel
 - South Korea
 title: Love from South Korea-famous for Gangnam Style!
 ---

@@ -11,6 +11,7 @@ title: Smoked salmon, high fiber scone with low fat yogurt and parsley
 This is one of my favourite meals to make! I got the recipe for high fiber scones from *odlums*. Its very simple and easy to make and only takes 20 minutes of your time! 
 
 I made some changes to the original recipe and this is what I used and it serves 2:
+
 - 125g self-raising flour
 - 125g wholemeal flour
 - 25g olive oil spread

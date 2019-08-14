@@ -11,6 +11,7 @@ title: Nasi goreng with tofu, mushrooms, vegetables served with fried egg
 *Nasi goreng* in english would mean fried rice. So, you would have definitely tried this dish if you have ordered Malaysian fried rice before. Today was the kind of day that we were craving for food from my home. I decided to go with a typical dish and gave it a healthy twist! Yes, I may have cheated just so I would get this dish done in under 20 minutes or so! So here goes, I cheated by not making the sauce from scratch! Honestly, I was not feeling it but I am sure I can post a typical recipe soon! 
 
 Here is what I used for 2 servings:
+
 - 200g raw brown rice
 - 1 bottle ayam brand nasi goreng sauce
 - 10 mushrooms

@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Foodieglobetrotter</title>
-    <link>https://sarkyr40.github.io/globefoodiebooktrotter/tags/</link>
+    <link>/globefoodiebooktrotter/tags/</link>
     <description>Recent content in Tags on Foodieglobetrotter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Maryannnnr - All rights reserved</copyright>
     <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate>
     
-	<atom:link href="https://sarkyr40.github.io/globefoodiebooktrotter/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/globefoodiebooktrotter/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>drink</title>
-      <link>https://sarkyr40.github.io/globefoodiebooktrotter/tags/drink/</link>
+      <link>/globefoodiebooktrotter/tags/drink/</link>
       <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
       
-      <guid>https://sarkyr40.github.io/globefoodiebooktrotter/tags/drink/</guid>
+      <guid>/globefoodiebooktrotter/tags/drink/</guid>
       <description></description>
     </item>
     
     <item>
       <title>interesting</title>
-      <link>https://sarkyr40.github.io/globefoodiebooktrotter/tags/interesting/</link>
+      <link>/globefoodiebooktrotter/tags/interesting/</link>
       <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
       
-      <guid>https://sarkyr40.github.io/globefoodiebooktrotter/tags/interesting/</guid>
+      <guid>/globefoodiebooktrotter/tags/interesting/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Food</title>
-      <link>https://sarkyr40.github.io/globefoodiebooktrotter/tags/food/</link>
+      <title>food</title>
+      <link>/globefoodiebooktrotter/tags/food/</link>
       <pubDate>Mon, 21 May 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://sarkyr40.github.io/globefoodiebooktrotter/tags/food/</guid>
+      <guid>/globefoodiebooktrotter/tags/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>my life</title>
-      <link>https://sarkyr40.github.io/globefoodiebooktrotter/tags/my-life/</link>
+      <link>/globefoodiebooktrotter/tags/my-life/</link>
       <pubDate>Mon, 21 May 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://sarkyr40.github.io/globefoodiebooktrotter/tags/my-life/</guid>
+      <guid>/globefoodiebooktrotter/tags/my-life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>travel</title>
-      <link>https://sarkyr40.github.io/globefoodiebooktrotter/tags/travel/</link>
+      <link>/globefoodiebooktrotter/tags/travel/</link>
       <pubDate>Mon, 21 May 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://sarkyr40.github.io/globefoodiebooktrotter/tags/travel/</guid>
+      <guid>/globefoodiebooktrotter/tags/travel/</guid>
       <description></description>
     </item>
     

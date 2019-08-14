@@ -1,8 +1,8 @@
 ---
 comments: true
-date: "2018-05-16T11:39:13+02:00"
+date: "2018-05-22T11:39:13+02:00"
 image: /images/blog/3b.jpg
-publishdate: "2018-05-16T11:39:13+02:00"
+publishdate: "2018-05-22T11:39:13+02:00"
 tags:
 - book
 title: "SMALL GREAT THINGS" by *Jodi Picoult*

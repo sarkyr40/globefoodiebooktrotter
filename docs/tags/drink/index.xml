@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>drink on Foodieglobetrotter</title>
-    <link>https://sarkyr40.github.io/globefoodiebooktrotter/tags/drink/</link>
+    <link>/globefoodiebooktrotter/tags/drink/</link>
     <description>Recent content in drink on Foodieglobetrotter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Maryannnnr - All rights reserved</copyright>
     <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate>
     
-	<atom:link href="https://sarkyr40.github.io/globefoodiebooktrotter/tags/drink/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/globefoodiebooktrotter/tags/drink/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ninth</title>
-      <link>https://sarkyr40.github.io/globefoodiebooktrotter/blog/ninth/</link>
+      <link>/globefoodiebooktrotter/blog/ninth/</link>
       <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
       
-      <guid>https://sarkyr40.github.io/globefoodiebooktrotter/blog/ninth/</guid>
+      <guid>/globefoodiebooktrotter/blog/ninth/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Sixth</title>
-      <link>https://sarkyr40.github.io/globefoodiebooktrotter/blog/sixth/</link>
+      <link>/globefoodiebooktrotter/blog/sixth/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:25 +0200</pubDate>
       
-      <guid>https://sarkyr40.github.io/globefoodiebooktrotter/blog/sixth/</guid>
+      <guid>/globefoodiebooktrotter/blog/sixth/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Fifth</title>
-      <link>https://sarkyr40.github.io/globefoodiebooktrotter/blog/fifth/</link>
+      <link>/globefoodiebooktrotter/blog/fifth/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:22 +0200</pubDate>
       
-      <guid>https://sarkyr40.github.io/globefoodiebooktrotter/blog/fifth/</guid>
+      <guid>/globefoodiebooktrotter/blog/fifth/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     

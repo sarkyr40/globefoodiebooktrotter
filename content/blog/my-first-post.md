@@ -2,7 +2,6 @@
 comments: true
 date: "2018-05-16T00:00:00+02:00"
 image: /images/blog/1a.jpg
-<!---image: /images/blog/1b.jpg--->
 publishdate: "2018-05-16T00:00:00+02:00"
 tags:
 - food

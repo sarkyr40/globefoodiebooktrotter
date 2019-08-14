@@ -4,7 +4,7 @@ date: "2018-05-22T11:39:13+02:00"
 image: /images/blog/3b.jpg
 publishdate: "2018-05-22T11:39:13+02:00"
 tags:
-- book
+- travel
 title: "SMALL GREAT THINGS" by *Jodi Picoult*
 ---
 <!--# This is another post-->

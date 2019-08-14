@@ -7,6 +7,7 @@ tags:
 - travel
 - food
 - my life
+- Cork-Ireland
 title: Weekend shenanigans
 ---
 <!--# This is another post-->

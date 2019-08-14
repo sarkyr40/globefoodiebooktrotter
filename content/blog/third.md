@@ -1,10 +1,10 @@
 ---
 comments: true
 date: "2018-05-22T11:39:13+02:00"
-image: /images/blog/3b.jpg
+image: /images/blog/3a.jpg
 publishdate: "2018-05-22T11:39:13+02:00"
 tags:
-- travel
+- book
 title: "SMALL GREAT THINGS" by *Jodi Picoult*
 ---
 <!--# This is another post-->

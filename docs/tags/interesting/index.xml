@@ -66,14 +66,5 @@
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
-    <item>
-      <title>Third</title>
-      <link>/globefoodiebooktrotter/blog/third/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:13 +0200</pubDate>
-      
-      <guid>/globefoodiebooktrotter/blog/third/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
-    </item>
-    
   </channel>
 </rss>

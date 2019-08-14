@@ -43,11 +43,6 @@
   </url>
   
   <url>
-    <loc>/globefoodiebooktrotter/blog/seventh/</loc>
-    <lastmod>2018-10-07T11:39:29+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/globefoodiebooktrotter/static/imprint/</loc>
     <lastmod>2018-10-07T11:12:00+02:00</lastmod>
   </url>
@@ -55,6 +50,17 @@
   <url>
     <loc>/globefoodiebooktrotter/static/</loc>
     <lastmod>2018-10-07T11:12:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/globefoodiebooktrotter/blog/seventh/</loc>
+    <lastmod>2018-06-05T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/globefoodiebooktrotter/tags/book/</loc>
+    <lastmod>2018-06-05T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -105,12 +111,6 @@
   <url>
     <loc>/globefoodiebooktrotter/blog/third/</loc>
     <lastmod>2018-05-16T09:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/globefoodiebooktrotter/tags/book/</loc>
-    <lastmod>2018-05-16T09:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2018-07-08T00:00:00+02:00"
-image: /images/blog/Kimolos_fishermen.jpg
+image: /images/blog/kimolos_fishermen.jpg
 publishdate: "2018-07-08T00:00:00+02:00"
 tags:
 - travel

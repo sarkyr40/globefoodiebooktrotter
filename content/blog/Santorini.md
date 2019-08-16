@@ -80,10 +80,18 @@ Our night had not ended yet. I should add that Sar and I attended a concert from
 
 You will need to climb down to get to the beach which some people say is abit tricky, but I say its worth it! What a beautiful sight to see the blue waters crash against the red shore. 
 
+![Red Beach](/globefoodiebooktrotter/images/blog/santorini_red_beach.jpg "Red Beach")
+
 We came to have a look at the beach and it was definitely a sight! Maybe sneak in a cheeky swim! 
+
+![White Beach](/globefoodiebooktrotter/images/blog/santorini_white_beach.jpg "White Beach")
 
 But as you can see, we liked the black beach best! Rest assured the black sand is not going to stick to you as much as white sand. Perissa beach is organised, which is perfect if you wish to get your freddo cuppacino or some food! 
 
+![Black Beach](/globefoodiebooktrotter/images/blog/santorini_black_beach.jpg "Black Beach")
+
 We finished our trip at the sunset view cafe! it is in the middle of nowhere with a windmill. The perfect find. Sar tried the local beer "volcan" which he really liked and I had a strawberry mojito which was not that great so maybe stick with local beers! The sunset once again blew our minds. Santorini you have stolen our hearts and minds and the best part is, you know it! Confident, strong and beautiful. 
+
+![Sunset view cafe](/globefoodiebooktrotter/images/blog/santorini_sunset_view_cafe.jpg "Sunset view cafe")
 
 I would like to leave a tip at the end that we flew out of Santorini back to Athens - don't expect much from the airport. Only one tiny duty free shop and you will be cramped in there with hundreds of people waiting for their flights. Well, what is one bad experience versus all the good we just shared with you! Start planning your holidays to the Greek islands! 

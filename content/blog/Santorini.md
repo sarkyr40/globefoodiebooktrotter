@@ -34,15 +34,27 @@ We went home to freshen up and decided to go to Fira in the evening for the suns
 
 ## Day 2: Imerovigli by day and wine tasting by night 
 
-This felt like the day of photo shoots! We just kept snapping everything we saw. I would really suggest Imerovigli for photo taking! Its quieter and less busy, you will have the place to yourself to take as many pictures you want (hence, the poses!). We originally wanted to hire a photographer but note its really expensive! They were charging 130 to 140 euros for 30 minutes. So, instead I made Sar my photographer! It was still a hot day but at least we were not rushing about.  A little tip, you could stay in this town too! It is also called the "balcony of the Aegean" with beautiful sunsets! Honestly though, sunsets in Santorini are magnificent in every town. 
+This felt like the day of photo shoots! We just kept snapping everything we saw. I would really suggest Imerovigli for photo taking! Its quieter and less busy, you will have the place to yourself to take as many pictures you want (hence, the poses!). We originally wanted to hire a photographer but note its really expensive! They were charging 130 to 140 euros for 30 minutes. So, instead I made Sar my photographer! It was still a hot day but at least we were not rushing about. A little tip, you could stay in this town too! It is also called the "balcony of the Aegean" with beautiful sunsets! Honestly though, sunsets in Santorini are magnificent in every town. 
+
+![Imerovigli](/globefoodiebooktrotter/images/blog/santorini_imerovigli.jpg "Imerovigli")
+
+![Imerovigli](/globefoodiebooktrotter/images/blog/santorini_imerovigli2.jpg "Imerovigli again")
+
+![Imerovigli](/globefoodiebooktrotter/images/blog/santorini_artistic.jpg "Imerovigli again")
+
+![Imerovigli](/globefoodiebooktrotter/images/blog/santorini_artistic2.jpg "Imerovigli again")
 
 After the photo shoot, we drove up to Akrotiri for some pictures by the lighthouse! It was quiet up there, it felt like us against the world. If you have the time and a car, it is worth a look!
 
 Finally, for the evening we made a table reservation at  Santos winery for wine tasting and the sunset. This is definitely a must do on the list! But first, I recommend you request for a table right in front with the best view (your hotel could book this for you). Also, you do not have to book for the winery tour! you can have the view by just buying a glass of wine. Have a look at the menu before hand, it helped us decide what we liked and was affordable. We ordered the 10 wine flight for tasting which cost 31 euros shared between 2 people, saying that we really liked  the famous vinsanto a dessert wine made from sun dried grapes!  We also ordered the seafood platter made with "beech wood smoked salmon fillet, Greek steeped trout, octopus, marinated hake fillet with olive oil and capers, breadsticks, tomatoes, rocket leaves" it costs 29 euros and note the portion was small but delicious. We were definitely still hungry after! So maybe get a snack before? 
 
+![Santos winery](/globefoodiebooktrotter/images/blog/santorini_10wine.jpg "10 wine flight, Santos winery")
+
 ## Day 3: Volcano trek and sunset on the boat
 
 We booked the sunset cruise in person at Fira in a tour office called "Dakoutros Travel". It cost us about 32 euros each person but it was worth every penny. You will have to get the boat from the old port. Going down is NOT EASY! it is steep and slippery and the sun will be burning so just imagine. You have three ways to get down. The cable car, donkey ride or walk down. the cable car will cost you 6 euros each person and it takes 2 minutes but the queues are massive, the donkeys cost the same but I would avoid it as we saw them being mistreated and they just looked sad it was hard to watch. So we walked down and it took us about 20-30 minutes and we saw quite a few people fall, not forgetting the smell of donkey poo. 
+
+![Volcano](/globefoodiebooktrotter/images/blog/santorini_volcano.jpg "Volcano")
 
 Once you're down, you'll get on the boat with a group of people. It was not so crowded, we had about 20-30 people! this is amazing as the day boats could go up to 100 people. We started with the volcano trek, it was steep but easy to overcome and hot but not as hot as earlier in the day. The guide explains the history of Santorini and how the island split due to an earthquake. The volcano is on sea making it unique I felt! We saw several tiny craters with sulphur gas coming out from it and hot water. Very interesting experience-It takes about 20 minutes to reach the peak! Note here to bring a large bottle of water, you will need it! 
 
@@ -54,3 +66,14 @@ Finally, we ended up watching the sunset on the boat. Lets just say it was the b
 
 Our night had not ended yet. I should add that Sar and I attended a concert from a famous Greek singer called Giannis Haroulis. Sar loves his music and want to know what I thought? He was indeed amazing! His voice was so beautiful it could serenade you and excite you at the same time. By the end of the night we were out of our seats jumping around with all his other fans. What a perfect way to end the night. 
 
+## Day 4: Beach day
+
+You will need to climb down to get to the beach which some people say is abit tricky, but I say its worth it! What a beautiful sight to see the blue waters crash against the red shore. 
+
+We came to have a look at the beach and it was definitely a sight! Maybe sneak in a cheeky swim! 
+
+But as you can see, we liked the black beach best! Rest assured the black sand is not going to stick to you as much as white sand. Perissa beach is organised, which is perfect if you wish to get your freddo cuppacino or some food! 
+
+We finished our trip at the sunset view cafe! it is in the middle of nowhere with a windmill. The perfect find. Sar tried the local beer "volcan" which he really liked and I had a strawberry mojito which was not that great so maybe stick with local beers! The sunset once again blew our minds. Santorini you have stolen our hearts and minds and the best part is, you know it! Confident, strong and beautiful. 
+
+I would like to leave a tip at the end that we flew out of Santorini back to Athens - don't expect much from the airport. Only one tiny duty free shop and you will be cramped in there with hundreds of people waiting for their flights. Well, what is one bad experience versus all the good we just shared with you! Start planning your holidays to the Greek islands! 

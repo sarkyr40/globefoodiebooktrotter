@@ -50,21 +50,31 @@ Finally, for the evening we made a table reservation at  Santos winery for wine 
 
 ![Santos winery](/globefoodiebooktrotter/images/blog/santorini_10wine.jpg "10 wine flight, Santos winery")
 
+![Sunset 1](/globefoodiebooktrotter/images/blog/santorini_sunset.jpg "Sunset 1")
+
 ## Day 3: Volcano trek and sunset on the boat
 
 We booked the sunset cruise in person at Fira in a tour office called "Dakoutros Travel". It cost us about 32 euros each person but it was worth every penny. You will have to get the boat from the old port. Going down is NOT EASY! it is steep and slippery and the sun will be burning so just imagine. You have three ways to get down. The cable car, donkey ride or walk down. the cable car will cost you 6 euros each person and it takes 2 minutes but the queues are massive, the donkeys cost the same but I would avoid it as we saw them being mistreated and they just looked sad it was hard to watch. So we walked down and it took us about 20-30 minutes and we saw quite a few people fall, not forgetting the smell of donkey poo. 
 
-![Volcano](/globefoodiebooktrotter/images/blog/santorini_volcano.jpg "Volcano")
-
 Once you're down, you'll get on the boat with a group of people. It was not so crowded, we had about 20-30 people! this is amazing as the day boats could go up to 100 people. We started with the volcano trek, it was steep but easy to overcome and hot but not as hot as earlier in the day. The guide explains the history of Santorini and how the island split due to an earthquake. The volcano is on sea making it unique I felt! We saw several tiny craters with sulphur gas coming out from it and hot water. Very interesting experience-It takes about 20 minutes to reach the peak! Note here to bring a large bottle of water, you will need it! 
+
+![Volcano](/globefoodiebooktrotter/images/blog/santorini_volcano.jpg "Volcano")
 
 After the trek, we made our way back to the boat and were taken to the hot springs where everyone jumps off the boat and gets the opportunity to swim in the volcanic hotsprings. Here they will provide floats too for people who need it. If you do not swim, you can skip this part too. Avoid wearing a white swimsuit as the hotsprings could colour your clothes. 
 
 Next, they brought us to Thirassia island. It is the old Santorini where houses are traditional. Here we could swim or get something to eat. Sar and I got a quick souvlaki for 3 euros to conserve our energy! it was heaven. Such a nice secluded spot away from crowds. 
 
+![Thirassia](/globefoodiebooktrotter/images/blog/santorini_thirassia.jpg "Thirassia")
+
 Finally, we ended up watching the sunset on the boat. Lets just say it was the best sunset of our lives! I had a little corner and we just sat there admiring the sunset together. no picture can ever do justice to what we experienced. Good thing is you will get complimentary wine on the boat while watching the sunset (don't expect much as they're in tiny plastic cups, but still a treat!). 
 
+![Boat sunset](/globefoodiebooktrotter/images/blog/santorini_sunset_boat.jpg "Boat sunset")
+
+![Boat sunset 2](/globefoodiebooktrotter/images/blog/santorini_sunset_boat2.jpg "Boat sunset again")
+
 Our night had not ended yet. I should add that Sar and I attended a concert from a famous Greek singer called Giannis Haroulis. Sar loves his music and want to know what I thought? He was indeed amazing! His voice was so beautiful it could serenade you and excite you at the same time. By the end of the night we were out of our seats jumping around with all his other fans. What a perfect way to end the night. 
+
+![Haroulis](/globefoodiebooktrotter/images/blog/santorini_haroulis.jpg "Giannis Haroulis concert")
 
 ## Day 4: Beach day
 

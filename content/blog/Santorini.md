@@ -10,7 +10,7 @@ title: Escape to Santorini
 ---
 Dear Santorini, you are like a woman who knows she has it all and the world is at her feet. Yet, we cant help but fall in love with you. You would think all that charm would be nauseating or some may call it cliche. Not by me, you swept me off my feet and showed me that haters are going to hate and you just have to keep your charm and  true beauty. Oh, how you've taught me. 
 
-We started our journey by taking the slow ferry with "Ferry hopper" from Kimolos island to Milos for a transfer and then Milos to Santorini. in total, the tickets cost about 70 euros each person one way. I would recommend you plan and book your tickets before your trip! you can collect your tickets in person at the ticket offices before your trip. If you are travelling from Athens, there are direct ferries and flights straight to Santorini!
+We started our journey by taking the slow ferry with "Ferry hopper" from Kimolos island to Milos for a transfer and then Milos to Santorini. in total, the tickets cost about 70 euros each person one way. I would recommend you plan and book your tickets before your trip! you can collect your tickets in person at the ticket offices before your trip. If you are travelling from Athens, there are direct ferries and flights straight to Santorini!
 
 Once we arrived to Santorini, we had our rental car waiting for us. We booked with "Santorini rent a car" and they were very timely and always picked up their phones when we had issues. it cost us 213 euros for 5 days with full insurance.  
 
@@ -28,7 +28,7 @@ Picture spots: When you first enter Oia, you will see Atlantis book store (they 
 
 Also, a good tip is to bring lots of water. We sat down for non-alcoholic juices in a nice tavern with a view and got charged 23 euros. I would like to think we paid for the view- it was magnificent with the blue domes and the sea! But if you are on a tight budget, be prepared for Oia! 
 
-![Oia 3](/globefoodiebooktrotter/images/blog/santorini_nice.jpg "More Oia :)")
+![Oia 3](/globefoodiebooktrotter/images/blog/santorini_nice.jpg "A bit more Oia")
 
 We went home to freshen up and decided to go to Fira in the evening for the sunset and dinner. We had no plans, we wondered the streets and walked into boutiques  and shops, admiring work from Greek designers. Fira is where the party is at! There were several fun looking bars and clubs we would have loved to enter if we were not so tired from the day! We ended up at a Greek tavern and ordered my favourite stuffed aubergines and grilled sardines (yum!). No pictures here as we were starving and forgot! (This happens to everyone I'm sure?). 
 

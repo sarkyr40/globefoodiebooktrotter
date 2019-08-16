@@ -1,16 +1,22 @@
 ---
 comments: true
-date: "2018-07-08T00:00:00+02:00"
-image: /images/blog/kimolos_fishermen.jpg
-publishdate: "2018-07-08T00:00:00+02:00"
+date: "2018-07-25T00:00:00+02:00"
+image: /images/blog/santorini_artistic3.jpg
+publishdate: "2018-07-25T00:00:00+02:00"
 tags:
 - travel
 - Greece
-title: Kimolos, Greek island deserving of praise!
+title: Escape to Santorini
 ---
-We only went to Kimolos because we were invited to one of Sar's good friends wedding! We were so thankful to be invited, as that weekend ended up being a great one! So here are some tips to explore Kimolos and have an authentic Greek experience from my perspective. 
+Dear Santorini, you are like a woman who knows she has it all and the world is at her feet. Yet, we cant help but fall in love with you. You would think all that charm would be nauseating or some may call it cliche. Not by me, you swept me off my feet and showed me that haters are going to hate and you just have to keep your charm and  true beauty. Oh, how you've taught me. 
 
-## Accomodation
+We started our journey by taking the slow ferry with "Ferry hopper" from Kimolos island to Milos for a transfer and then Milos to Santorini. in total, the tickets cost about 70 euros each person one way. I would recommend you plan and book your tickets before your trip! you can collect your tickets in person at the ticket offices before your trip. If you are travelling from Athens, there are direct ferries and flights straight to Santorini!
+
+Once we arrived to Santorini, we had our rental car waiting for us. We booked with "Santorini rent a car" and they were very timely and always picked up their phones when we had issues. it cost us 213 euros for 5 days with full insurance.  
+
+We stayed in Perissa at a hotel called "Villa Anemomilos Perissa" John the owner was very friendly and the facilities were decent, there was a pool on site and the black beach was a 8 minute walk away! John checked us in himself and gave us a good amount of tips for things to see and do. We paid 260 euros for 4 nights with free parking which is very affordable for Santorini standards! Don't worry about the room, it was very clean and we even had a cute balcony facing the mountains!  Okay so with logistics out of the way, lets get to the fun part! 
+
+## Day 1: Famous Oia for beautiful pictures and Fira by night! 
 
 The town and port is a short walk so we felt the best place to stay would be in between. We booked two nights at Kimolis hotel for 220 euros with breakfast included and I assure you the service provided was amazing! Yes, it may seem costly, but its a great location if you fancy swimming by the port or a walk around the town exploring the small streets, 17th century churches, traditional Greek taverns, shops and homes. However, it is not too near to the beautiful beaches, you will need car for that! This may cost around 30 euros a day. In the summer, it gets so hot, its a good idea to have a car. We tried walking to the Rema beach with the elephant stone but after 20 minutes of walking it gets nearly unbearable in the heat. So definitely get yourself a ride!
 

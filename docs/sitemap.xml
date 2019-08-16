@@ -21,31 +21,36 @@
   
   <url>
     <loc>/globefoodiebooktrotter/blog/</loc>
-    <lastmod>2018-07-08T00:00:00+02:00</lastmod>
+    <lastmod>2018-07-25T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/globefoodiebooktrotter/blog/santorini/</loc>
+    <lastmod>2018-07-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/globefoodiebooktrotter/tags/greece/</loc>
-    <lastmod>2018-07-08T00:00:00+02:00</lastmod>
+    <lastmod>2018-07-25T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/globefoodiebooktrotter/tags/</loc>
+    <lastmod>2018-07-25T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/globefoodiebooktrotter/tags/travel/</loc>
+    <lastmod>2018-07-25T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/globefoodiebooktrotter/blog/kimolos/</loc>
     <lastmod>2018-07-08T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/globefoodiebooktrotter/tags/</loc>
-    <lastmod>2018-07-08T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/globefoodiebooktrotter/tags/travel/</loc>
-    <lastmod>2018-07-08T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

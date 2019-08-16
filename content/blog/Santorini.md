@@ -18,26 +18,19 @@ We stayed in Perissa at a hotel called "Villa Anemomilos Perissa" John the owner
 
 ## Day 1: Famous Oia for beautiful pictures and Fira by night! 
 
-The town and port is a short walk so we felt the best place to stay would be in between. We booked two nights at Kimolis hotel for 220 euros with breakfast included and I assure you the service provided was amazing! Yes, it may seem costly, but its a great location if you fancy swimming by the port or a walk around the town exploring the small streets, 17th century churches, traditional Greek taverns, shops and homes. However, it is not too near to the beautiful beaches, you will need car for that! This may cost around 30 euros a day. In the summer, it gets so hot, its a good idea to have a car. We tried walking to the Rema beach with the elephant stone but after 20 minutes of walking it gets nearly unbearable in the heat. So definitely get yourself a ride!
+Let's get honest about Oia. It is definitely worth the hype! The iconic white washed houses,small streets that lead you around like a mini maze, view of the caldera and the many photo opportunities. BUT be aware that its going to be really hot from the burning sun and super crowded with tourists from around the world. Especially if you visit in the summer months. Unless you have a larger budget to book a beautiful villa or room in Oia, I would suggest taking all your beautiful pictures in the day and moving on to explore other parts of Santorini.
 
-![Rema beach](/globefoodiebooktrotter/images/blog/Kimolos_elephant.jpg "Rema beach")
+![Oia](/globefoodiebooktrotter/images/blog/santorini_iconic.jpg "Oia")
 
-## Beaches
+Picture spots: When you first enter Oia, you will see Atlantis book store (they sell really good books which I honestly think you should check out) and just on the roof of the store is a cute photo op.  Next, walk towards Oia castle, on the way you have lots of opportunities with the blue dome and white washed houses. At the castle, you'll be faced with a treat of pictures, enjoy! Ultimately,  I would say go down the little streets, you never know where they will lead you and that is where we took most of our pictures! So put on your explorer hats, brave the crowds and create your own story. 
 
-Prassa beach is so beautiful and the furthest away (about 10 mins by car), but definitely worth the travel! It has white sand with turquoise waters, also organised with umbrellas and a little cafe (get yourself a nice cold Freddo cappuccino!). 
+![Oia 2](/globefoodiebooktrotter/images/blog/santorini_view.jpg "More Oia")
 
-![Prassa beach](/globefoodiebooktrotter/images/blog/Kimolos_all.jpg "Prassa beach")
+Also, a good tip is to bring lots of water. We sat down for non-alcoholic juices in a nice tavern with a view and got charged 23 euros. I would like to think we paid for the view- it was magnificent with the blue domes and the sea! But if you are on a tight budget, be prepared for Oia! 
 
-![Coffee](/globefoodiebooktrotter/images/blog/Kimolos_coffee.jpg "Freddo cappuccino")
+![Oia 3](/globefoodiebooktrotter/images/blog/santorini_nice.jpg "More Oia :)")
 
-You can also swim at the Psathi (port)! We saw quite a few people jumping into the clear waters! There is also Rema beach where you'll find the fisherman village (picture with colorful doors) and a great place for pictures too.Another tip is there is a nice elephant shaped rocks that you could snap a cute picture at! Some people like diving and there is a nice place for that, Karas beach!  Poliagos beach is located on the island nearest Kimolos, you will need a boat to get there (10 mins approx) that is where the wedding beach party was hosted! It is a natural beach with endangered species such as seals etc. You won't see them near the beach where people swim but maybe you could get lucky if you explored the island? 
+We went home to freshen up and decided to go to Fira in the evening for the sunset and dinner. We had no plans, we wondered the streets and walked into boutiques  and shops, admiring work from Greek designers. Fira is where the party is at! There were several fun looking bars and clubs we would have loved to enter if we were not so tired from the day! We ended up at a Greek tavern and ordered my favourite stuffed aubergines and grilled sardines (yum!). No pictures here as we were starving and forgot! (This happens to everyone I'm sure?). 
 
-![Nice view](/globefoodiebooktrotter/images/blog/Kimolos_nice view.jpg "Nice view")
+## Day 2: Imerovigli by day and wine tasting by night 
 
-![Beach](/globefoodiebooktrotter/images/blog/Kimolos_me.jpg "Poliegos Beach")
-
-## Food & Drinks
-
-Look for the Agora street in the town center! You will find nice bars to hang out at. Also, the town center, which the Greeks call the 'platia', is where you'll find taverns with yummy Greek food. Although, we only spent the weekend in **Kimolos** we felt it was an **authentic experience**. 
-
-![Sar and me](/globefoodiebooktrotter/images/blog/Kimolos_us.jpg "Us in wedding outfit")

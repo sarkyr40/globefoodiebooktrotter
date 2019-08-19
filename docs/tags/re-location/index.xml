@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>my life on Foodieglobetrotter</title>
-    <link>/globefoodiebooktrotter/tags/my-life/</link>
-    <description>Recent content in my life on Foodieglobetrotter</description>
+    <title>Re-location on Foodieglobetrotter</title>
+    <link>/globefoodiebooktrotter/tags/re-location/</link>
+    <description>Recent content in Re-location on Foodieglobetrotter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Maryannnnr - All rights reserved</copyright>
     <lastBuildDate>Fri, 21 Jun 2019 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/globefoodiebooktrotter/tags/my-life/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/globefoodiebooktrotter/tags/re-location/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>/globefoodiebooktrotter/blog/newc_newr/</guid>
       <description>Switzerland is like heaven, so beautiful you will wish to stay and enjoy every moment. In terms of where we are staying (canton Valais), I cannot begin to describe how happy we are.</description>
-    </item>
-    
-    <item>
-      <title>Weekend shenanigans</title>
-      <link>/globefoodiebooktrotter/blog/second/</link>
-      <pubDate>Mon, 21 May 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/globefoodiebooktrotter/blog/second/</guid>
-      <description>We spent Saturday in Killarney catching up with friends from my university. I was never very good with goodbyes despite the time spent apart, I always feel this little bit of sadness.</description>
     </item>
     
   </channel>

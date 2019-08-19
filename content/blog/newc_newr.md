@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2019-06-21T00:00:00+02:00"
-image: /images/blog/ncnr1.jpg
+image: /images/blog/ncnr_1.jpg
 publishdate: "2019-06-21T00:00:00+02:00"
 tags:
 - travel
@@ -24,4 +24,4 @@ So what are these new rules we learnt we have to follow and what is the process 
 
 **5. Food prices** make me want to cry for help. Chicken is so expensive! I remember the first day I walked into the supermarket and tried to get chicken and my heart nearly stopped. One chicken breast is approximately 6-8 Swiss francs and two chicken breasts is about 11-14 Swiss francs. We have gotten into a routine now and obviously the prices don't shock me anymore. I only feel a pinch when we cross the border to Italy and some foods seem way cheaper. But on the bright side, we are in cheese, chocolate and wine heaven! These three things are definitely affordable and it keeps me happy :) 
 
-![Fondue](/globefoodiebooktrotter/images/blog/ncnr2.jpg "Fondue-ing")
+![Fondue](/globefoodiebooktrotter/images/blog/ncnr_2.jpg "Fondue-ing")

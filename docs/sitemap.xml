@@ -3,8 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/globefoodiebooktrotter/blog/</loc>
+    <lastmod>2019-06-21T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/globefoodiebooktrotter/</loc>
-    <lastmod>2018-10-07T11:12:00+02:00</lastmod>
+    <lastmod>2019-06-21T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/globefoodiebooktrotter/blog/newc_newr/</loc>
+    <lastmod>2019-06-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/globefoodiebooktrotter/tags/re-location/</loc>
+    <lastmod>2019-06-21T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/globefoodiebooktrotter/tags/switzerland/</loc>
+    <lastmod>2019-06-21T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/globefoodiebooktrotter/tags/</loc>
+    <lastmod>2019-06-21T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/globefoodiebooktrotter/tags/my-life/</loc>
+    <lastmod>2019-06-21T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/globefoodiebooktrotter/tags/travel/</loc>
+    <lastmod>2019-06-21T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -20,30 +61,12 @@
   </url>
   
   <url>
-    <loc>/globefoodiebooktrotter/blog/</loc>
-    <lastmod>2018-07-25T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/globefoodiebooktrotter/blog/santorini/</loc>
     <lastmod>2018-07-25T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>/globefoodiebooktrotter/tags/greece/</loc>
-    <lastmod>2018-07-25T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/globefoodiebooktrotter/tags/</loc>
-    <lastmod>2018-07-25T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/globefoodiebooktrotter/tags/travel/</loc>
     <lastmod>2018-07-25T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -111,12 +134,6 @@
   <url>
     <loc>/globefoodiebooktrotter/blog/second/</loc>
     <lastmod>2018-05-21T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/globefoodiebooktrotter/tags/my-life/</loc>
-    <lastmod>2018-05-21T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

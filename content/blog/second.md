@@ -25,27 +25,27 @@ We spent Saturday in Killarney catching up with friends from my university. I wa
 
 I ordered scampi and chips for lunch and I guess what I was hoping for was a more breaded scampi with a nice crispy layer. What I got as you'll see in the picture were prawns slightly breaded! I cant really complain, it was a nice meal and the chips were crispy and the salad was tasty with a citrus like dressing (as I've mentioned I love dressings!) but I would have loved my prawns with a crispy breaded coating (I do get disappointed if I've built expectations in my head). 
 
-![](/globefoodiebooktrotter/images/blog/2b.jpg) 
+![](/images/blog/2b.jpg "Scampi") 
 
 The atmosphere of the restaurant was lovely though! it had a cafe and pub fusion thing going on. I guess the question would be if I would return for a second round? I would like to try other places but I would not rule out JM. Reidy's based on one dish! Sar ordered a smoked salmon dish and he really enjoyed it so I am sure Its a matter of making the right choice the next time.
 
-![](/globefoodiebooktrotter/images/blog/2c.jpg)  
+![](/images/blog/2c.jpg "In the nature")  
 
 To be honest, we had a lovely day at Muckross house, I wore a summery dress thinking it was going to be roasting and obviously after living in Ireland (approaching 3 years now!) I should know the weather forecast is not great and best to be prepared for rain and winds always. Apart from my legs freezing and maybe the rest of me, it was all worth it when you're facing nature. 
 
-![](/globefoodiebooktrotter/images/blog/2d.jpg)
+![](/images/blog/2d.jpg "Europe hotel garden")
 
 Sar did say something interesting to me, that I clashed with nature. If you saw the pictures above he thinks that I don't fit in with the background. I guess its safe to say I will always be a city girl. I was born and raised in a city and that's where I belong. saying that though, Ireland has warmed me up a little no matter how hard it is for me to admit it, I will miss it if I ever leave one day (dear god, I hope I do). 
 
 ## Poached eggs kinda sunday at River Lee Hotel
 
-![](/globefoodiebooktrotter/images/blog/2e.jpg)
+So, I finally caught up with Mariana and Ronan for poached eggs Sunday! All the dishes were made perfectly, and I should specifically highlight the creamy mushrooms with poached eggs. It was just the right amount of cream and I loved it so much I found it hard to share with Sar (oops!). 
 
-So, I finally caught up with Mariana and Ronan for poached eggs Sunday! All the dishes were made perfectly, and I should specifically highlight the creamy mushrooms with poached eggs. It was just the right amount of creamy and I loved it so much I found it hard to share with Sar (oops!). Maybe next time I could opt for one egg only since it’s so hard for me to finish two eggs. 
-
-![](/globefoodiebooktrotter/images/blog/2f.jpg)
+![](/images/blog/2e.jpg "Creamy mushrooms with poached eggs")
 
 Mariana had the eggs florentine and from what she shared with me; it had a nice sweet tangy flavour in the sauce (I wonder what was in it?). I'll have to try this dish next time, I guess! Which means yes, I would highly recommend brunch at the River Lee especially if you're sat out in the terrace it’s the perfect ambiance. Although do note, for the time being the restaurant is undergoing some renovations and the terrace is closed. 
+
+![](/images/blog/2f.jpg "Eggs florentine")
 
 Sar and I have not seen Mariana and Ronan in awhile. She is one of my besties in Cork and is probably the first person I would ring if I need anything or need a friend. I have not seen her in a while since I was crazy busy with college. Luckily we did not miss much from each other’s life apart from the typical book exchange (we're both book lovers and frequently exchange our good reads) and her presenting me with a lovely pair of earrings and a sweet card for finishing college! She wrote me a motivational card and there is something she said that I will always treasure and remember. She reminded me that apart from the piece of paper I will also have proof that I am a strong woman. She always knows how to remind me of my strengths! Everyone needs that one friend who will look at you for everything that's amazing about you. 
 

@@ -14,6 +14,6 @@ For now, we had to settle for yum cha in Cork! Its in a little Chinese restauran
 
 We also ordered the dry hor fun with beef which turned out tasting like "char kway teow" also known as fried noodles with eggs and cockles from Singapore. For those who love the local delicacy, that would be amazing, as for me I was a bit disappointed. I had something else in mind - there are several ways to make dry hor fun and this way was not my favourite. Ask for chilli oil with your noodles, it adds extra flavour which leaves you wanting more. 
 
-![Dry hor fun with beef](/globefoodiebooktrotter/images/blog/8a.jpg "Dry hor fun with beef")
+![Dry hor fun with beef](/images/blog/8a.jpg "Dry hor fun with beef")
 
 As for the array of dim sums we ordered which were basics by the way, I was a tad bit disappointed too. You could easily get frozen dim sums from the chinese shops and steam them on your own - they'll obviously fall apart and will not be as juicy as freshly made ones. Therefore, ordering it from a restaurant you would hope they would be freshly made and juicy which it was not. You can never get xiao long pao (pork soup dumplings) that burst in your mouth ever unless you were home. Anyways, for a small craving the food did its job. 

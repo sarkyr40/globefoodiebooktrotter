@@ -7,7 +7,7 @@ copyright = "Maryannnnr - All rights reserved"
 enableEmoji = true
 publishDir = "docs"
 disqusShortname = "https-sarkyr40-github-io-globefoodiebooktrotter"
-#googleAnalytics = "UA-1XXXXXXX1-1"
+googleAnalytics = "UA-146397702-1"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]

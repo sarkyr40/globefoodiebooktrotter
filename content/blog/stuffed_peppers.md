@@ -11,4 +11,4 @@ title: How to make stuffed peppers with tuna! EASY RECIPE!
 
 Have a look at my new #1min-recipe for stuffed peppers. Inspired from the book "Ouzo & Mezes" by Panagiotis Alexopoulos and Anastasia Zarboni. Enjoy!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1EuxbrZ6jS8" frameborder="0" allowfullscreen></iframe>
+<iframe width="90%" src="https://www.youtube.com/embed/1EuxbrZ6jS8" frameborder="0" allowfullscreen></iframe>

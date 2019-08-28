@@ -4,7 +4,7 @@ date: "2019-01-24T09:00:00+02:00"
 image: /images/blog/greek_passport.jpg
 publishdate: "2019-01-24T09:00:00+02:00"
 tags:
-- book
+- travel
 title: 6 month passport rule" really a problem?
 ---
 This is a question that will only cross your mind if you're about to travel and realize that you have 6 months or less left on your passport. This happened to me once years ago when I was bound to attend a forum in Malaysia! Apparently, there is a 6 month rule most countries so I freaked and obviously got an express application for the trip.  

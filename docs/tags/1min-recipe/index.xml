@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1min-recipe on Foodieglobetrotter</title>
-    <link>https://foodieglobetrotter.com/tags/1min-recipe/</link>
+    <link>/tags/1min-recipe/</link>
     <description>Recent content in 1min-recipe on Foodieglobetrotter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Maryannnnr - All rights reserved</copyright>
     <lastBuildDate>Mon, 26 Aug 2019 00:19:37 +0200</lastBuildDate>
     
-	<atom:link href="https://foodieglobetrotter.com/tags/1min-recipe/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/1min-recipe/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to make stuffed peppers with tuna! EASY RECIPE!</title>
-      <link>https://foodieglobetrotter.com/blog/stuffed_peppers/</link>
+      <link>/blog/stuffed_peppers/</link>
       <pubDate>Mon, 26 Aug 2019 00:19:37 +0200</pubDate>
       
-      <guid>https://foodieglobetrotter.com/blog/stuffed_peppers/</guid>
+      <guid>/blog/stuffed_peppers/</guid>
       <description>Have a look at my new #1min-recipe for stuffed peppers. Inspired from the book &amp;ldquo;Ouzo &amp;amp; Mezes&amp;rdquo; by Panagiotis Alexopoulos and Anastasia Zarboni. Enjoy!
  </description>
     </item>

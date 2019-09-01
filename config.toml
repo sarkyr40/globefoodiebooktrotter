@@ -25,8 +25,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   title = "@Maryannnnr"
   subtitle = "Nutritionist who loves travelling and sharing my adventures!"
   mdtext = '''
-Passionate about sharing my experiences!\
-**Please check my blog and let me know your thoughts...**\
+Passionate about reading, cooking and travelling of course!\
+**Please check out my blog and let me know your thoughts.**\
 ### Connect with me in social media!
 '''
   alertbar = false

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2019-02-14T00:00:00+02:00"
-image: /images/blog/cork_12.jpg
+image: /images/blog/cork_12.jpeg
 publishdate: "2019-02-14T00:00:00+02:00"
 tags:
 - travel
@@ -78,17 +78,17 @@ Rent a car or as an old fr-enemy used to say "find a friend with a car". Go tour
 
 ![](/images/blog/cork_22.jpeg "Ring of Kerry")
 
-![](/images/blog/cork_23.jpg "Ring of Kerry")
+![](/images/blog/cork_23.jpeg "Ring of Kerry")
 
-![](/images/blog/cork_24.jpg "Ring of Kerry")
+![](/images/blog/cork_24.jpeg "Ring of Kerry")
 
-![](/images/blog/cork_25.jpg "Ring of Kerry")
+![](/images/blog/cork_25.jpeg "Ring of Kerry")
 
-![](/images/blog/cork_26.jpg "Ring of Kerry")
+![](/images/blog/cork_26.jpeg "Ring of Kerry")
 
-![](/images/blog/cork_27.jpg "Killarney")
+![](/images/blog/cork_27.jpeg "Killarney")
 
-![](/images/blog/cork_910.jpg "Killarney")
+![](/images/blog/cork_910.jpeg "Killarney")
 
 ## 8. O'Conaill Chocolate Shop
 If you lived in Cork you cannot get enough of this amazing hot chocolate! The chocolate shop can be found at french church street in town or every Sunday at the market beside the marina. There is a hot chocolate stand with the best dark chocolate that Sar swears is the best in Cork. I personally like butlers chocolate too. 

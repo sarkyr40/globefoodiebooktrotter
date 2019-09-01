@@ -1,8 +1,8 @@
 ---
 comments: true
-date: "2019-08-26T00:19:37+02:00"
-image: /images/blog/stuffed_peppers.jpg
-publishdate: "2019-08-26T00:19:37+02:00"
+date: "2019-09-01T00:19:37+02:00"
+image: /images/blog/stresa_1.jpg
+publishdate: "2019-09-01T00:19:37+02:00"
 tags:
 - travel
 - Stresa

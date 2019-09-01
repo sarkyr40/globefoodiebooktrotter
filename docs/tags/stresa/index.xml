@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stresa on Foodieglobetrotter</title>
+    <link>https://foodieglobetrotter.com/tags/stresa/</link>
+    <description>Recent content in Stresa on Foodieglobetrotter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Maryannnnr - All rights reserved</copyright>
+    <lastBuildDate>Mon, 26 Aug 2019 00:19:37 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodieglobetrotter.com/tags/stresa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploring Stresa, Italy and the beautiful Borromean islands!</title>
+      <link>https://foodieglobetrotter.com/blog/stresa/</link>
+      <pubDate>Mon, 26 Aug 2019 00:19:37 +0200</pubDate>
+      
+      <guid>https://foodieglobetrotter.com/blog/stresa/</guid>
+      <description>Enjoy the video!
+ </description>
+    </item>
+    
+  </channel>
+</rss>

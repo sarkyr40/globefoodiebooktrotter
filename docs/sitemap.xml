@@ -15,6 +15,17 @@
   </url>
   
   <url>
+    <loc>https://foodieglobetrotter.com/tags/borromean-islands/</loc>
+    <lastmod>2019-08-26T00:19:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://foodieglobetrotter.com/blog/stresa/</loc>
+    <lastmod>2019-08-26T00:19:37+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://foodieglobetrotter.com/</loc>
     <lastmod>2019-08-26T00:19:37+02:00</lastmod>
     <priority>0</priority>
@@ -26,6 +37,18 @@
   </url>
   
   <url>
+    <loc>https://foodieglobetrotter.com/tags/italy/</loc>
+    <lastmod>2019-08-26T00:19:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://foodieglobetrotter.com/tags/stresa/</loc>
+    <lastmod>2019-08-26T00:19:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://foodieglobetrotter.com/tags/</loc>
     <lastmod>2019-08-26T00:19:37+02:00</lastmod>
     <priority>0</priority>
@@ -33,6 +56,12 @@
   
   <url>
     <loc>https://foodieglobetrotter.com/tags/food/</loc>
+    <lastmod>2019-08-26T00:19:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://foodieglobetrotter.com/tags/travel/</loc>
     <lastmod>2019-08-26T00:19:37+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -56,12 +85,6 @@
   
   <url>
     <loc>https://foodieglobetrotter.com/tags/my-life/</loc>
-    <lastmod>2019-06-21T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://foodieglobetrotter.com/tags/travel/</loc>
     <lastmod>2019-06-21T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>

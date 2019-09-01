@@ -16,9 +16,9 @@ This is a certified truth. You can ask anyone who has ever been to Ireland and t
 
 ![](/images/blog/cork_2.jpg "New Year's house party")
 
-![](/images/blog/cork_3.jpg "Night out in Killarney")
+![](/images/blog/cork_3.jpeg "Night out in Killarney")
 
-![](/images/blog/cork_4.jpg "Casino night")
+![](/images/blog/cork_4.jpeg "Casino night")
 
 ![](/images/blog/cork_5.jpg "Ready to go out...")
 
@@ -45,38 +45,38 @@ It rarely snows in Ireland, some can argue that its not fun when there is no sno
 ## 6. Guinness my old friend 
 Where in the world can you get a fresh cold pint of Guinness? You can order it anywhere else but it wont taste the same (Guinness never tastes the same as when in Ireland). That is the truth. you can argue with me all you like but case closed. I will miss a good pint of Guinness. Although, in Cork, people drink **Murphy's** so I should say try it as it may be your drink of choice. 
 
-![](/images/blog/cork_6.jpg "First night in Ireland and already with my favourite!")
+![](/images/blog/cork_6.jpeg "First night in Ireland and already with my favourite!")
 
 ## 7. Cork is surrounded by beautiful nature 
 Rent a car or as an old fr-enemy used to say "find a friend with a car". Go touring around the region. You will find the most spectacular beauties. Places such as the cliffs of moher, Kinsale, Cobh, Dingle peninsula, ring of Kerry including places such as Killarney national park.  These are all commonly known places but there is so much more to explore. Being able to drive out to any of these places is one of the highlights of living here. Cork is a great spot for nature lovers. Here are pictures of some of our favorite days here. 
 
-![](/images/blog/cork_7.jpg "")
+![](/images/blog/cork_7.jpeg "")
 
-![](/images/blog/cork_8.jpg "St. Paddys day")
+![](/images/blog/cork_8.jpeg "St. Paddys day")
 
-![](/images/blog/cork_9.jpg "St. Paddys day")
+![](/images/blog/cork_9.jpeg "St. Paddys day")
 
-![](/images/blog/cork_11.jpg "")
+![](/images/blog/cork_11.jpeg "")
 
-![](/images/blog/cork_13.jpg "Cliffs of Moher")
+![](/images/blog/cork_13.jpeg "Cliffs of Moher")
 
-![](/images/blog/cork_14.jpg "Cliffs of Moher")
+![](/images/blog/cork_14.jpeg "Cliffs of Moher")
 
-![](/images/blog/cork_15.jpg "Killarney")
+![](/images/blog/cork_15.jpeg "Killarney")
 
-![](/images/blog/cork_16.jpg "Killarney")
+![](/images/blog/cork_16.jpeg "Killarney")
 
-![](/images/blog/cork_17.jpg "")
+![](/images/blog/cork_17.jpeg "")
 
-![](/images/blog/cork_18.jpg "Ring of Kerry")
+![](/images/blog/cork_18.jpeg "Ring of Kerry")
 
-![](/images/blog/cork_19.jpg "Ring of Kerry")
+![](/images/blog/cork_19.jpeg "Ring of Kerry")
 
-![](/images/blog/cork_20.jpg "Ring of Kerry")
+![](/images/blog/cork_20.jpeg "Ring of Kerry")
 
-![](/images/blog/cork_21.jpg "Ring of Kerry")
+![](/images/blog/cork_21.jpeg "Ring of Kerry")
 
-![](/images/blog/cork_22.jpg "Ring of Kerry")
+![](/images/blog/cork_22.jpeg "Ring of Kerry")
 
 ![](/images/blog/cork_23.jpg "Ring of Kerry")
 

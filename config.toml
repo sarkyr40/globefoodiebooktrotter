@@ -23,7 +23,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params.index]
   picture = "/images/author2.png"
   title = "@Maryannnnr"
-  subtitle = "I'm travelling, eating and reading! Nutritionist in my free time."
+  subtitle = "Nutritionist who loves travelling and sharing my adventures!"
   mdtext = '''
 Passionate about sharing my experiences!\
 **Please check my blog and let me know your thoughts...**\

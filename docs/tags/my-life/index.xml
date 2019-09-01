@@ -2,40 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>my life on Foodieglobetrotter</title>
-    <link>https://foodieglobetrotter.com/tags/my-life/</link>
+    <link>/tags/my-life/</link>
     <description>Recent content in my life on Foodieglobetrotter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Maryannnnr - All rights reserved</copyright>
     <lastBuildDate>Fri, 21 Jun 2019 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://foodieglobetrotter.com/tags/my-life/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/my-life/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>New country, new rules</title>
-      <link>https://foodieglobetrotter.com/blog/newc_newr/</link>
+      <link>/blog/newc_newr/</link>
       <pubDate>Fri, 21 Jun 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://foodieglobetrotter.com/blog/newc_newr/</guid>
+      <guid>/blog/newc_newr/</guid>
       <description>Switzerland is like heaven, so beautiful you will wish to stay and enjoy every moment. In terms of where we are staying (canton Valais), I cannot begin to describe how happy we are.</description>
     </item>
     
     <item>
+      <title>10 things I loved about living in Cork</title>
+      <link>/blog/10things_cork/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/blog/10things_cork/</guid>
+      <description>We have been living in Cork for just over three years now and I have never openly talked about how I felt about living here.</description>
+    </item>
+    
+    <item>
       <title>Growing up</title>
-      <link>https://foodieglobetrotter.com/blog/growing_up/</link>
+      <link>/blog/growing_up/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://foodieglobetrotter.com/blog/growing_up/</guid>
+      <guid>/blog/growing_up/</guid>
       <description>Truth is, I&amp;rsquo;m still getting to know me and learning to love what I see. I chose to write about some bits of my life as I think it is a part of me that made me who I am today.</description>
     </item>
     
     <item>
       <title>Weekend shenanigans</title>
-      <link>https://foodieglobetrotter.com/blog/second/</link>
+      <link>/blog/second/</link>
       <pubDate>Mon, 21 May 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://foodieglobetrotter.com/blog/second/</guid>
+      <guid>/blog/second/</guid>
       <description>We spent Saturday in Killarney catching up with friends from my university. I was never very good with goodbyes despite the time spent apart, I always feel this little bit of sadness.</description>
     </item>
     

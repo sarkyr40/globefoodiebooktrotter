@@ -90,6 +90,12 @@ Day 2 was spent at the famous **Arcadi monastery** and **Preveli monastery** tha
 Heraklion is the capital city of Crete. We did not stay here as we wanted to be away from the city so we chose Hersonissos. It is a beach town with lovely spa resorts! Some party tourists choose Malia for the crazy nights, but obviously its all quiet in April. 
 **Tip: We spent 3 nights here.** 
 
+![](/images/blog/her_1.jpg "Heraklion port")
+
+![](/images/blog/her_2.jpg "Church in downtown Heraklion")
+
+![](/images/blog/her_3.jpg "My private jacuzzi")
+
 **Spinalonga island**
 
 Day 2 was spent in Spinalonga! The last active leper colony in Europe was based here. Also there is a famous book called "the island" by Victoria Hislop and I highly recommend it. I was so excited to see the island and the story come alive. To get there, drive towards Plaka, there are boats (5 min ride) that will take you across and back for 10 euros. The entrance will cost 8 euros and do note there are no guides unless you are in a tour group. So for those, like me who like details, read up before!

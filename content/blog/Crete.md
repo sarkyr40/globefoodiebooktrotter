@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2019-05-01T00:00:00+02:00"
-image: /images/blog/knossos_1.jpg
+image: /images/blog/knossos_1a.jpg
 publishdate: "2019-05-01T00:00:00+02:00"
 tags:
 - travel

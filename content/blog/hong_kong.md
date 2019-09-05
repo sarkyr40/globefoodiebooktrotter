@@ -53,7 +53,7 @@ Jun and I spent our last night partying at the famous Lan Kwai Fong which was 5 
 
 Hong Kong was a delight for food! Make sure to have your dim sum fill! Ask the locals for the nearest banquet and they will guide you. I will waste no time with words and indulge you with pictures! For this reason only, you should embrace Hong Kong and give this city a chance! 
 
-![](/images/blog/hk_17.jpg "Food :)")
+![](/images/blog/hk_17.jpg "Food!")
 
 ![](/images/blog/hk_18.jpg "More food...")
 

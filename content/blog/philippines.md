@@ -4,7 +4,7 @@ date: "2018-08-03T09:00:00+02:00"
 image: /images/blog/phil_elnido6.jpg
 publishdate: "2018-08-03T09:00:00+02:00"
 tags:
-- philippines
+- Philippines
 - travel
 title: How we fell in love with the Philippines?
 ---

@@ -27,7 +27,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   mdtext = '''
 Passionate about reading, cooking and travelling of course!\
 **Please check out my blog and let me know your thoughts.**\
-### Connect with me in social media!
+### Connect with me on social media!
 '''
   alertbar = false
 

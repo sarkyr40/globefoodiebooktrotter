@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Foodieglobetrotter"
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
-copyright = "Maryannnnr - All rights reserved"
+copyright = "Maryann_rr - All rights reserved"
 enableEmoji = true
 publishDir = "docs"
 disqusShortname = "https-sarkyr40-github-io-globefoodiebooktrotter"
@@ -16,13 +16,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
-  name = "Maryannnnr"
+  name = "Maryann_rr"
   thumbnail = "/images/author2.png"
   description = "Creator of this blog."
 
 [params.index]
   picture = "/images/author2.png"
-  title = "@Maryannnnr"
+  title = "@Maryann_rr"
   subtitle = "Nutritionist who loves travelling and sharing my adventures!"
   mdtext = '''
 Passionate about reading, cooking and travelling of course!\

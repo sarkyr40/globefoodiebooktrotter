@@ -124,7 +124,7 @@ It was so busy in the restaurant when we went, there were no tables available. W
 
 ## Day 5
 
-This day was for us to be lazy! We went to Nydri beach and chilled there for abit. The beach is easily accessible and organised, which may be an ideal option if you don’t feel like climbing down anywhere. Obviously, Sar sees a church across the waters and decides we should explore it. We drove to the church and saw the view of Nydri and a grave of a famous architect-WilliamDoerpfeld. Now, I felt the buzz from Sar and decided we drive to the end where cape Lefkada was. The drive up is intense, but you will be treated with amazing views of Kefalonia and Ithaca. There is a story that a famous Greek poet killed himself on these cliffs. The waves were so strong you could feel the water from where we were.
+This day was for us to be lazy! We went to Nydri beach and chilled there for abit. The beach is easily accessible and organised, which may be an ideal option if you don’t feel like climbing down anywhere. Obviously, Sar sees a church across the waters and decides we should explore it. We drove to the church and saw the view of Nydri and a grave of a famous architect-William Doerpfeld. Now, I felt the buzz from Sar and decided we drive to the end where cape Lefkada was. The drive up is intense, but you will be treated with amazing views of Kefalonia and Ithaca. There is a story that a famous Greek poet killed himself on these cliffs. The waves were so strong you could feel the water from where we were.
 
 ![](/images/blog/ny1.jpg "Nydri beach")
 
@@ -166,8 +166,6 @@ This was an adventurous day! We rented a boat from a lovely old man at Nydri bea
 
 ![](/images/blog/bo6.jpg "Views from the boat")
 
-![](/images/blog/bo7.jpg "Views from the boat")
-
 ![](/images/blog/bo8.jpg "Views from the boat")
 
 ![](/images/blog/bo9.jpg "Views from the boat")
@@ -198,7 +196,7 @@ We saved the most popular and spectacular beach for last. Porto Katsiki is known
 
 **Dinner recommendation for fish and meze by Agios Ioannis:** At Liogerma, we had seats facing the beach, we ordered some local Lefkas and picked our fish straight from the kitchen. It was the perfect way to end the day, except we found a Cuban bar in the town centre and decided we should further celebrate with some pina coladas! 
 
-![](/images/blog/pk6.jpg "Meze:fava and boiled greens")
+![](/images/blog/pk6.jpg "Mezedes: fava and boiled greens")
 
 ![](/images/blog/pk7.jpg "Grilled fish")
 
@@ -236,7 +234,7 @@ We stayed close to Agios Ioannis beach, so it would be silly if we skipped it en
 
 ![](/images/blog/ai5.jpg "Grilled octopus and grilled tuna")
 
-![](/images/blog/ai6.jpg "Ftsou Ftsou to ward off evil")
+![](/images/blog/ai6.jpg "Ftou Ftou to ward off evil")
 
 ![](/images/blog/ai7.jpg "Drinks at Mavros Lagos")
 

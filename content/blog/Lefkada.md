@@ -196,7 +196,7 @@ We saved the most popular and spectacular beach for last. Porto Katsiki is known
 
 **Dinner recommendation for fish and meze by Agios Ioannis:** At Liogerma, we had seats facing the beach, we ordered some local Lefkas and picked our fish straight from the kitchen. It was the perfect way to end the day, except we found a Cuban bar in the town centre and decided we should further celebrate with some pina coladas! 
 
-![](/images/blog/pk6.jpg "Mezedes: fava and boiled greens")
+![](/images/blog/pk6.jpg "Mezedes- fava and boiled greens")
 
 ![](/images/blog/pk7.jpg "Grilled fish")
 

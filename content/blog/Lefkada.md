@@ -178,7 +178,7 @@ This was an adventurous day! We rented a boat from a lovely old man at Nydri bea
 
 We saved the most popular and spectacular beach for last. Porto Katsiki is known to be one of the most beautiful beaches in Greece and the Mediterranean. We were amazed at how easy it was to travel there. We arrived after 3pm, so parking was 5 euros, if not it would have been 10 euros. When you read reviews online, they will tell you at how there are too many stairs and that it’s hard to get down. If you can climb at least three flights of stairs, this will be easy for you, don’t be wasting your money on tourist boats (which are packed!).  We spent the rest of the day swimming and enjoying the bright blue waters and the view of the cliffs topped with trees. 
 
-![](/images/blog/pk10.jpg "Greek coffee heaven")
+![](/images/blog/pk10.jpeg "Greek coffee heaven")
 
 ![](/images/blog/pk11.jpg "Best views")
 
@@ -198,11 +198,11 @@ We saved the most popular and spectacular beach for last. Porto Katsiki is known
 
 ![](/images/blog/pk6.jpg "Mezedes- fava and boiled greens")
 
-![](/images/blog/pk7.jpg "Grilled fish")
+![](/images/blog/pk7.jpeg "Grilled fish")
 
-![](/images/blog/pk8.jpg "Mussels saganaki")
+![](/images/blog/pk8.jpeg "Mussels saganaki")
 
-![](/images/blog/pk9.jpg "Havana bar for pina coladas")
+![](/images/blog/pk9.jpeg "Havana bar for pina coladas")
 
 ## Day 8
 

@@ -18,8 +18,6 @@ A small city in Switzerland known for its covered Kapellbrücke (Chapel Bridge).
 
 ![](/images/blog/luc1.jpg "lucerne")
 
-![](/images/blog/luc2.jpeg "lucerne")
-
 ## 9 
 
 **Rhein falls**
@@ -36,7 +34,7 @@ We went to the Rhein falls just north of Zurich in the summer. It is known as Eu
 
 ## 8 
 
-**Interlaken harder kulm** 
+**Interlaken Harder Kulm** 
 
 Interlaken is always a tourist favourite! To get a good view from the top of Interlaken, you should take a funicular up to harder kulm. It is 1,322 metres above sea level, you will have a lovely view of Lake Brienz and Lake Thun, or enjoy views of the mountains; Eiger, Mönch, and Jungfrau. 
 
@@ -172,7 +170,7 @@ This was one of my favourite day trips in Switzerland. You can do a hike up from
 
 **Zermatt**
 
-One of my best experiences in Switzerland comes from a small village in the Valais region. Zermatt is beyond spectacular, words cannot describe it. We went snowboarding with views of Matterhorn. Everyday was an adventure with top views. If you visit in the Summer, you could enjoy the views of Matterhorn from Gornergrat or my tip would be to stop at Riffelsee and enjoy the view of Matterhorn with the lake! It was mind-blowing to be surrounded glaciers and Matterhorn.  
+One of my best experiences in Switzerland comes from a small village in the Valais region. Zermatt is beyond spectacular, words cannot describe it. We went snowboarding with views of Matterhorn. Everyday was an adventure with top views. If you visit in the Summer, you could enjoy the views of Matterhorn from Gornergrat or my tip would be to stop at Riffelsee and enjoy the view of Matterhorn with the lake! It was mind-blowing to be surrounded by glaciers and Matterhorn.  
 
 ![](/images/blog/ze1.jpg "zermatt")
 

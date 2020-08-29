@@ -5,7 +5,7 @@ image: /images/blog/ze3.jpg
 publishdate: "2020-08-29T21:00:00+02:00"
 tags:
 - travel
-- Switzerland
+- switzerland
 title: My top 10 favourite places to visit in Switzerland 
 ---
 Everyone has their own opinion as to which places they loved. I have a few International friends and their lists included some of my favourites too. This assures me about my top ten favourites, and I am happy to share them with you for your next trip! However, if I should visit new places in the future, I am sure this list will be updated as there are many more beautiful spots to visit in Switzerland. Also, do note that Thun would have made this list, except I live here! So, I believe visiting Thun deserves its own story. 
@@ -16,13 +16,11 @@ A small city in Switzerland known for its covered Kapellbrücke (Chapel Bridge).
 
 ![](/images/blog/luc1.jpg "lucerne")
 
-![](/images/blog/luc2.jpg "lucerne")
-
+![](/images/blog/luc2.jpeg "lucerne")
 
 ## 9 
 **Rhein falls**
 We went to the Rhein falls just north of Zurich in the summer. It is known as Europe’s largest waterfalls. The force of the water at the falls were strong moving through a large rock. To enter from the castle and get a closer look of the falls, it costs 5 CHF per person. Few also suggest taking the boats so you will be closer to the falls and feel the rush of the water, however we chose to avoid it this time due to the crowds. 
-
 
 ![](/images/blog/rf1.jpg "rhein falls")
 
@@ -35,7 +33,6 @@ We went to the Rhein falls just north of Zurich in the summer. It is known as Eu
 ## 8 
 **Interlaken harder kulm** 
 Interlaken is always a tourist favourite! To get a good view from the top of Interlaken, you should take a funicular up to harder kulm. It is 1,322 metres above sea level, you will have a lovely view of Lake Brienz and Lake Thun, or enjoy views of the mountains; Eiger, Mönch, and Jungfrau. 
-
 
 ![](/images/blog/inter1.jpg "Interlaken")
 
@@ -53,7 +50,7 @@ Interlaken is always a tourist favourite! To get a good view from the top of Int
 
 ## 7
 **Bern**
-Walking through the streets of Bern is my favorite thing to do. You will feel like you are walking through history, the medieval city center of Bern is a UNESCO world heritage site. You also cannot miss the zytglogge and the bear pits where you will spot the cute brown bears who live here.  Take a nice walk up to Rosengarten, in the spring and summer you will see colorful roses bloom. The highlight would be the view of Bern city, and while you’re there, you could have a glass of wine at the restaurant or have yourself a picnic in the summer! The aare river is also a favorite place to be in the Summer. You could head down to friebad marzli for a lazy float down the river. If you fancy an adventure, rent a boat in Thun schwabis and raft down towards Bern and get thrilled by the famous Utiggen rapids! 
+Walking through the streets of Bern is my favorite thing to do. You will feel like you are walking through history, the medieval city center of Bern is a UNESCO world heritage site. You also cannot miss the zytglogge and the bear pits where you will spot the cute brown bears who live here.  Take a nice walk up to Rosengarten, in the spring and summer you will see colorful roses bloom. The highlight would be the view of Bern city, and while you’re there, you could have a glass of wine at the restaurant or have yourself a picnic in the summer! The Aare river is also a favorite place to be in the Summer. You could head down to Freibad Marzili for a lazy float down the river. If you fancy an adventure, rent a boat in Thun Schwabis and raft down towards Bern and get thrilled by the famous Uttigen rapids! 
 
 ![](/images/blog/be1.jpg "Bern")
 
@@ -143,8 +140,8 @@ Ever feel like going back in time and enjoying the view of the famous views of s
 ![](/images/blog/mo8.jpg "Montreux")
 
 ## 2 
-**Oichenesee Kandersteg**
-This was one of my favourite day trips in Switzerland. You can do a hike up from kanderstag town to Oichenesee lake. When you get up there, there is a mini toboggan ride that takes you on a small ride with amazing views and cows grazing nearby. The lake is so still, you can see the reflection of the Rocky Mountains. 
+**Oeschinensee Kandersteg**
+This was one of my favourite day trips in Switzerland. You can do a hike up from Kandersteg town to Oeschinensee. When you get up there, there is a mini toboggan ride that takes you on a small ride with amazing views and cows grazing nearby. The lake is so still, you can see the reflection of the Rocky Mountains. 
 
 ![](/images/blog/ka1.jpg "Kanderstag")
 
@@ -154,7 +151,7 @@ This was one of my favourite day trips in Switzerland. You can do a hike up from
 
 ![](/images/blog/ka4.jpg "Kanderstag")
 
-##1 
+## 1 
 **Zermatt**
 One of my best experiences in Switzerland comes from this village in the Valais region. Zermatt is spectacular, words cannot describe it. We went snowboarding with views of Matterhorn. Everyday was an adventure with top views. If you go in the Summer, you could enjoy the views of Matterhorn from Gornergrat or my tip would be to stop at Riffelsee and enjoy the view of Matterhorn with the lake! It was mind-blowing to be surrounded by glaciers and Matterhorn.  
 

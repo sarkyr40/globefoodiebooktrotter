@@ -9,7 +9,7 @@ tags:
 - Greece
 title: Travelling during a pandemic  
 ---
-This has been a tough year, with added concerns to travel. When we booked to Greece, we had in mind several considerations. The idea of going to Greece was made better since Sar is from Greece and his family is there too. We knew we could reach out to them in the worst-case scenario. Before we flew, we had to fill out a passenger locator form with information on our trip and where they could contact us if we were in contact with anyone sick on the flight. Also, they had random testing at the airport, if we tested positive, we would be quarantined for 14 days. If negative, the authorities will let us continue with our vacation. It was a risk we had to take!  
+This has been a tough year, with added concerns to travel. When we booked our trip to Greece, we had in mind several considerations. The idea of going to Greece was made better since Sar is from Greece and his family is there too. We knew we could reach out to them in the worst-case scenario. Before we flew, we had to fill out a passenger locator form with information on our trip and where they could contact us if we were in contact with anyone sick on the flight. Also, they had random testing at the airport, if we tested positive, we would be quarantined for 14 days. If negative, the authorities will let us continue with our vacation. It was a risk we had to take!  
 
 **These were our considerations before the trip and our thoughts to tackle them:**
 
